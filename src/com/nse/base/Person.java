@@ -1,5 +1,5 @@
 package com.nse.base;
-//person
+//person2
 public abstract class Person {
 	public String name;
 	private int mobileNumber;
