@@ -1,7 +1,7 @@
 package com.nse.groups;
 
 import com.nse.base.Person;
-
+//new change
 public class Professor extends Person{
 	public int professorId;
 	public int departmentId;
