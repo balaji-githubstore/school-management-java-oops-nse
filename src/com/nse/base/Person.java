@@ -1,7 +1,6 @@
 package com.nse.base;
 
 public abstract class Person {
-
 	public String name;
 	private int mobileNumber;
 	public String address;
